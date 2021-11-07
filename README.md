@@ -2,7 +2,7 @@
 - 👀 I’m interested in conding and gaming
 - 🌱 I’m currently learning coding 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me insta-@kaveen_mr.kv_x
+- 📫 How to reach me instagram.com/kaveen_mr.kv_x/
 
 <!---
 KaveenPerera100/KaveenPerera100 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
